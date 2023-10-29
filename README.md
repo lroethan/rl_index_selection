@@ -1,5 +1,16 @@
 # SWIRL: Selection of Workload-aware Indexes using Reinforcement Learning
 
+
+## PG and TiDB Setup
+
+## PG Install
+
+1. https://www.postgresql.org/download/linux/ubuntu/
+2. https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
+
+## TiDB Install
+
+
 This repository provides some additional experimental data for the [EDBT 2022 paper](https://openproceedings.org/2022/conf/edbt/paper-37.pdf) _SWIRL: Selection of Workload-aware Indexes using Reinforcement Learning_ and the source code for SWIRL. The repository is [licensed](LICENSE) under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 If you have any questions, feel free to contact the authors, e.g., Jan Kossmann via jan.kossmann@hpi.de
